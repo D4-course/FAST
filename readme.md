@@ -1,6 +1,13 @@
+TEAM 17 PROJECT 2\
+Shaantanu Kulkarni 2019102031\
+Vishal Singh 2019102002
+
+# Report for this project is in blog.md as instructed by the TA
+
+
 # Fusion models for Atomic and molecular STructures (FAST)
 
-TEAM 17 PROJECT 2
+
 
 
 Predicting accurate protein-ligand binding affinity is important in drug discovery. This code implements fusion network model to benefit from Spatial Grach CNN and 3D CNN models to improve the binding affinity prediction. The code is written in python with Tensorflow and Pytorch.  
