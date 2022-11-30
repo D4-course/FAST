@@ -1,5 +1,8 @@
 # Fusion models for Atomic and molecular STructures (FAST)
 
+TEAM 17 PROJECT 2
+
+
 Predicting accurate protein-ligand binding affinity is important in drug discovery. This code implements fusion network model to benefit from Spatial Grach CNN and 3D CNN models to improve the binding affinity prediction. The code is written in python with Tensorflow and Pytorch.  
 
  
